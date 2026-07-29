@@ -1,0 +1,284 @@
+Analiza **[Company Name] ([Ticker])** con un enfoque de value investing inspirado en Warren Buffett y Peter Lynch. 
+
+El objetivo es determinar, de forma cuantitativa y ejecutiva, si la acción merece un análisis más profundo.
+
+## 1. Perfil de la compañía
+
+Resume en una tabla:
+
+* Actividad principal.
+* Segmentos de negocio.
+* Principales geografías.
+* Activos clave.
+* Número de empleados.
+* Capitalización bursátil.
+* Enterprise value.
+* Precio actual por acción.
+
+Máximo 5 líneas de comentario cualitativo.
+
+## 2. Evolución financiera: últimos 5 años
+
+Construye una tabla con los últimos cinco ejercicios fiscales y LTM, incluyendo:
+
+* Ingresos.
+* EBITDA.
+* EBIT.
+* Beneficio neto.
+* EPS diluido.
+* Cash flow operativo.
+* Capex.
+* Free cash flow.
+* Free cash flow por acción.
+* Deuda neta.
+* Número diluido de acciones.
+
+Calcula para cada métrica:
+
+* CAGR a 5 años.
+* Margen actual.
+* Variación frente al primer año.
+* Variación frente al último año.
+
+Separa claramente cifras reportadas, ajustadas y normalizadas.
+
+## 3. KPI de calidad y rentabilidad
+
+Calcula para cada uno de los últimos cinco años y LTM:
+
+* Crecimiento de ingresos.
+* Crecimiento de EPS.
+* Crecimiento de free cash flow por acción.
+* Margen EBITDA.
+* Margen EBIT.
+* Margen neto.
+* Free cash flow margin.
+* ROE.
+* ROIC.
+* Cash conversion: FCF / beneficio neto.
+* Capex / ingresos.
+* Deuda neta / EBITDA.
+* Cobertura de intereses.
+* Ingresos por empleado.
+* EBITDA por empleado.
+
+Destaca:
+
+* Media de 5 años.
+* Último dato.
+* Mejor y peor año.
+* Tendencia: mejora, estable o deterioro.
+
+## 4. Métricas Buffett
+
+Calcula y analiza:
+
+* ROIC medio de 5 años.
+* ROE medio de 5 años.
+* Margen operativo medio.
+* Conversión media de beneficio neto en free cash flow.
+* Owner earnings.
+* Owner earnings por acción.
+* Crecimiento de owner earnings por acción.
+* Retorno sobre capital tangible.
+* Necesidades de reinversión.
+* Capex de mantenimiento estimado.
+* Crecimiento del número de acciones.
+* Deuda neta / owner earnings.
+
+Determina si la compañía cumple los siguientes criterios:
+
+| Criterio                                 | Resultado | Comentario |
+| ---------------------------------------- | --------: | ---------- |
+| ROIC medio superior al 12%               |   Sí / No |            |
+| FCF positivo en al menos 4 de 5 años     |   Sí / No |            |
+| FCF / beneficio neto superior al 80%     |   Sí / No |            |
+| Crecimiento de EPS por acción positivo   |   Sí / No |            |
+| Deuda neta / EBITDA inferior a 2.5x      |   Sí / No |            |
+| Márgenes estables o crecientes           |   Sí / No |            |
+| Dilución inferior al 1% anual            |   Sí / No |            |
+| Reinvierte capital a retornos atractivos |   Sí / No |            |
+
+## 5. Métricas Peter Lynch
+
+Clasifica la compañía como:
+
+* Slow grower.
+* Stalwart.
+* Fast grower.
+* Cyclical.
+* Turnaround.
+* Asset play.
+
+Calcula:
+
+* PER actual.
+* PER normalizado.
+* Crecimiento esperado del EPS.
+* PEG.
+* PEG ajustado por dividendo.
+* Dividend yield.
+* Payout ratio.
+* Crecimiento de inventarios frente a ventas.
+* Crecimiento de cuentas a cobrar frente a ventas.
+* Deuda neta / FCF.
+* Evolución del número de acciones.
+
+Indica si:
+
+* El PEG es inferior a 1.0x.
+* El PER es razonable frente al crecimiento.
+* El crecimiento es orgánico.
+* El balance permite financiar el crecimiento sin dilución.
+* Existen activos infravalorados o negocios no reconocidos.
+
+## 6. Guidance del management
+
+Resume en una tabla todas las previsiones vigentes del management:
+
+| Métrica              | Guidance | Periodo | Variación vs. año anterior | Última revisión |
+| -------------------- | -------: | ------- | -------------------------: | --------------- |
+| Ingresos             |          |         |                            |                 |
+| Crecimiento orgánico |          |         |                            |                 |
+| EBITDA               |          |         |                            |                 |
+| Margen EBITDA        |          |         |                            |                 |
+| EPS                  |          |         |                            |                 |
+| Free cash flow       |          |         |                            |                 |
+| Capex                |          |         |                            |                 |
+| Deuda neta / EBITDA  |          |         |                            |                 |
+
+Incluye también cualquier objetivo a medio plazo comunicado por el management.
+
+Compara el guidance histórico con el resultado final de los últimos tres años y determina si el management:
+
+* Tiende a superar objetivos.
+* Cumple razonablemente.
+* Revisa objetivos a la baja.
+* Tiene baja credibilidad predictiva.
+
+## 7. Valoración
+
+Calcula:
+
+* Market capitalization.
+* Enterprise value.
+* PER reportado.
+* PER normalizado.
+* EV / EBITDA.
+* EV / EBIT.
+* Price / FCF.
+* EV / FCF.
+* FCF yield.
+* Earnings yield.
+* Dividend yield.
+* Shareholder yield.
+* PEG.
+* Precio / valor contable.
+* Precio / valor contable tangible.
+
+Compara estas métricas con:
+
+* Media histórica de 5 años.
+* Rango histórico de 5 años.
+* Tres comparables relevantes.
+* Media del sector.
+
+## 8. Valor razonable
+
+Estima el valor por acción mediante:
+
+1. PER normalizado.
+2. EV / EBITDA normalizado.
+3. DCF simplificado de free cash flow.
+4. Owner earnings yield.
+
+Utiliza tres escenarios:
+
+| Escenario | Crecimiento | Margen | Múltiplo / WACC | Valor por acción | Upside / Downside |
+| --------- | ----------: | -----: | --------------: | ---------------: | ----------------: |
+| Bear      |             |        |                 |                  |                   |
+| Base      |             |        |                 |                  |                   |
+| Bull      |             |        |                 |                  |                   |
+
+Indica:
+
+* Precio actual.
+* Valor razonable base.
+* Rango de valor razonable.
+* Margen de seguridad.
+* Precio al que existiría un margen de seguridad del 20%.
+* Precio al que existiría un margen de seguridad del 30%.
+
+## 9. Riesgos cuantificables
+
+Identifica un máximo de cinco riesgos y cuantifica su impacto potencial sobre:
+
+* Ingresos.
+* Margen EBITDA.
+* EPS.
+* Free cash flow.
+* Deuda.
+* Valor por acción.
+
+Prioriza riesgos observables en los estados financieros:
+
+* Caída de márgenes.
+* Baja conversión de caja.
+* Exceso de deuda.
+* Dilución.
+* Capex creciente.
+* Adquisiciones destructivas.
+* Inventarios o cuentas a cobrar creciendo más que ventas.
+* Ajustes no recurrentes repetidos.
+* Incumplimiento de guidance.
+
+## 10. Scorecard final
+
+Asigna una puntuación de 0 a 10:
+
+| Área                        | Puntuación |
+| --------------------------- | ---------: |
+| Crecimiento por acción      |            |
+| Márgenes                    |            |
+| ROIC                        |            |
+| Conversión de caja          |            |
+| Balance                     |            |
+| Asignación de capital       |            |
+| Credibilidad del management |            |
+| Valoración                  |            |
+| Margen de seguridad         |            |
+| Calidad global              |            |
+
+Calcula una puntuación total ponderada:
+
+* Calidad del negocio: 25%.
+* Rentabilidad y ROIC: 20%.
+* Generación de caja: 15%.
+* Balance: 15%.
+* Crecimiento por acción: 10%.
+* Management y asignación de capital: 5%.
+* Valoración y margen de seguridad: 10%.
+
+## 11. Conclusión
+
+Finaliza con una respuesta de máximo 250 palabras.
+
+Selecciona una única conclusión:
+
+* **Merece análisis adicional.**
+* **Merece seguimiento, pero no análisis prioritario.**
+* **No merece dedicar más tiempo actualmente.**
+
+Incluye únicamente:
+
+1. Tres razones numéricas a favor.
+2. Tres razones numéricas en contra.
+3. Principal variable que puede cambiar la tesis.
+4. Rango de valor razonable.
+5. Margen de seguridad actual.
+6. Puntuación total sobre 10.
+7. Veredicto final.
+
+No emitas conclusiones genéricas. Cada afirmación debe estar respaldada por una cifra, ratio, tendencia o comparación.
+
+Prioriza fuentes primarias: informes anuales, 10-K, 10-Q, presentaciones de resultados, conference calls y guidance oficial. No inventes datos y señala expresamente cualquier métrica no disponible.
