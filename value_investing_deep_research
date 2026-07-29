@@ -11,9 +11,12 @@ Resume en una tabla:
 * Principales geografías.
 * Activos clave.
 * Número de empleados.
-* Capitalización bursátil.
-* Enterprise value.
-* Precio actual por acción.
+* Capitalización bursátil (fecha).
+* Deuda bruta (fecha).
+* Caja (fecha).
+* Equivalentes a caja (fecha).
+* Enterprise value (fecha).
+* Precio actual por acción (fecha).
 
 Máximo 5 líneas de comentario cualitativo.
 
