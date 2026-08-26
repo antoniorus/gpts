@@ -1,0 +1,388 @@
+# Screener — Chris Hohn / TCI
+
+Toma **exclusivamente el universo de compañías y la información financiera del screening que acabas de realizar en tu respuesta anterior**.
+
+No vuelvas a generar el screening inicial ni amplíes el universo con nuevas compañías.
+
+Tu objetivo ahora es hacer una **segunda selección inspirada en la filosofía de inversión de Chris Hohn / TCI Fund Management**, para identificar cuáles de las compañías anteriores tienen características de negocio suficientemente excepcionales como para justificar un análisis fundamental profundo.
+
+Cuando falte algún dato importante, complétalo preferentemente con S&P Capital IQ y, cuando sea necesario, con informes anuales, presentaciones corporativas o fuentes primarias.
+
+## 1. Principio de inversión
+
+No busques simplemente acciones estadísticamente baratas.
+
+Busca principalmente:
+
+> **negocios extraordinarios, con ventajas competitivas sostenibles, elevados retornos sobre el capital, gran generación de caja, capacidad de reinversión y management disciplinado, especialmente cuando algún problema temporal, mala percepción, estructura corporativa o asignación de capital impide que el mercado reconozca plenamente su valor.**
+
+Evalúa cada compañía con horizonte de **5–10+ años**.
+
+---
+
+# 2. Moat / ventaja competitiva
+
+Determina la fortaleza y sostenibilidad de la ventaja competitiva.
+
+Analiza:
+
+- posición monopolística u oligopolística;
+- switching costs;
+- network effects;
+- escala;
+- costes estructuralmente inferiores;
+- propiedad intelectual;
+- marca;
+- distribución;
+- datos;
+- regulación;
+- concesiones;
+- infraestructura difícilmente replicable;
+- elevada criticidad del producto para el cliente.
+
+Asigna:
+
+**Moat Score: 0–5**
+
+Explica la ventaja competitiva en máximo una línea.
+
+---
+
+# 3. Pricing power
+
+Evalúa:
+
+- capacidad histórica de subir precios;
+- elasticidad de la demanda;
+- churn;
+- capacidad de trasladar inflación;
+- estabilidad/expansión de márgenes;
+- coste del producto respecto al valor económico que genera al cliente.
+
+Asigna:
+
+**Pricing Power Score: 0–5**
+
+---
+
+# 4. Recurrencia y previsibilidad
+
+Evalúa la calidad de los ingresos:
+
+- ingresos recurrentes;
+- contratos de largo plazo;
+- suscripciones;
+- mantenimiento;
+- aftermarket;
+- software/data;
+- alta retención;
+- demanda estructuralmente estable.
+
+Penaliza:
+
+- proyectos one-off;
+- exposición a commodities;
+- fuerte ciclicidad;
+- dependencia de pocos clientes;
+- revenues difíciles de predecir.
+
+Asigna:
+
+**Predictability Score: 0–5**
+
+---
+
+# 5. ROIC y calidad económica
+
+Analiza:
+
+- ROIC LTM;
+- ROIC medio 5 años;
+- ROIC medio 10 años si existe;
+- ROCE;
+- evolución histórica del ROIC.
+
+Pero presta especial atención al:
+
+## Incremental ROIC
+
+Calcula aproximadamente:
+
+**Incremental ROIC = ΔNOPAT / ΔInvested Capital**
+
+preferentemente sobre periodos de 3–5 años para evitar ruido anual.
+
+Pregunta esencial:
+
+> ¿Los euros adicionales que la empresa está reinvirtiendo siguen generando retornos elevados?
+
+Asigna:
+
+**Capital Returns Score: 0–5**
+
+---
+
+# 6. Reinvestment runway
+
+Este es uno de los criterios más importantes.
+
+Determina si la empresa puede reinvertir cantidades relevantes de capital durante muchos años manteniendo elevados retornos.
+
+Analiza:
+
+- TAM;
+- penetración actual;
+- expansión geográfica;
+- nuevos productos;
+- cross-selling;
+- aumento de precios;
+- crecimiento de capacidad;
+- digitalización;
+- nuevas verticales;
+- bolt-on M&A cuando forme parte estructural del modelo.
+
+Clasifica:
+
+**5 — enorme runway a retornos elevados**
+**4 — runway considerable**
+**3 — crecimiento razonable**
+**2 — oportunidades limitadas**
+**1 — negocio esencialmente maduro**
+**0 — reinversión destruye valor**
+
+Pregunta expresamente:
+
+> ¿Puede esta compañía seguir reinvirtiendo capital a retornos elevados durante 10 años?
+
+---
+
+# 7. Crecimiento orgánico
+
+Analiza los últimos 5–10 años de:
+
+- ingresos;
+- EBIT;
+- EPS;
+- FCF.
+
+Distingue claramente:
+
+- crecimiento orgánico;
+- adquisiciones;
+- FX;
+- buybacks;
+- expansión de márgenes.
+
+Penaliza compañías donde el crecimiento histórico haya requerido adquisiciones constantes sin evidencia de creación de valor.
+
+Asigna:
+
+**Organic Growth Score: 0–5**
+
+---
+
+# 8. Conversión a caja
+
+Analiza:
+
+- CFO / EBITDA;
+- FCF / EBIT;
+- FCF / beneficio neto;
+- capex de mantenimiento;
+- working capital;
+- capitalización de costes;
+- SBC;
+- necesidades estructurales de reinversión.
+
+Pregunta:
+
+> ¿Cuánto del beneficio contable termina realmente en caja disponible para los accionistas?
+
+Asigna:
+
+**Cash Conversion Score: 0–5**
+
+---
+
+# 9. Capital allocation
+
+Evalúa los últimos 5–10 años:
+
+- adquisiciones;
+- desinversiones;
+- recompras;
+- dividendos;
+- emisiones de acciones;
+- endeudamiento;
+- SBC;
+- inversiones no core.
+
+Valora positivamente:
+
+- buybacks cuando la acción está infravalorada;
+- M&A disciplinado;
+- venta de activos de bajo retorno;
+- ausencia de empire building;
+- buen uso del balance.
+
+Asigna:
+
+**Capital Allocation Score: 0–5**
+
+---
+
+# 10. Management y governance
+
+Evalúa:
+
+- incentivos;
+- skin in the game;
+- remuneración;
+- dilución;
+- historial de decisiones;
+- estructura accionarial;
+- related-party transactions;
+- protección de minoritarios;
+- transparencia.
+
+Diferencia entre:
+
+**mal negocio**
+
+y
+
+**buen negocio mal gestionado actualmente**.
+
+Este segundo caso puede ser especialmente interesante si existe una vía realista para mejorar la asignación de capital.
+
+Asigna:
+
+**Governance Score: 0–5**
+
+---
+
+# 11. Posibles catalizadores / desbloqueo de valor
+
+Busca situaciones donde el valor pueda aumentar sustancialmente mediante:
+
+- reducción de costes;
+- mejora de márgenes;
+- venta de activos;
+- spin-off;
+- reducción de capex improductivo;
+- recompras;
+- optimización del balance;
+- cambio de management;
+- mejora de incentivos;
+- simplificación corporativa.
+
+Clasifica:
+
+**Alto / Medio / Bajo**
+
+Identifica el principal catalizador en una línea.
+
+---
+
+# 12. Valoración
+
+No descartes una gran compañía simplemente porque no sea estadísticamente barata.
+
+Evalúa valoración frente a calidad y crecimiento.
+
+Utiliza cuando sea posible:
+
+- P/E NTM;
+- EV/EBIT;
+- EV/EBITDA;
+- P/FCF;
+- FCF yield;
+- valoración histórica;
+- valoración frente a peers;
+- valoración frente al crecimiento esperado.
+
+Clasifica:
+
+**Muy atractiva / Atractiva / Razonable / Exigente / Muy exigente**
+
+Pregunta clave:
+
+> ¿El precio actual permite obtener una rentabilidad atractiva si el negocio simplemente ejecuta razonablemente bien durante los próximos 5–10 años?
+
+---
+
+# 13. TCI Score
+
+Calcula un **TCI Score /100**:
+
+| CriterioPeso            |          |
+| ----------------------- | -------- |
+| Moat                    | 15%      |
+| Pricing power           | 10%      |
+| Predictability          | 10%      |
+| ROIC + incremental ROIC | 15%      |
+| Reinvestment runway     | 20%      |
+| Organic growth          | 5%       |
+| Cash conversion         | 10%      |
+| Capital allocation      | 5%       |
+| Governance              | 5%       |
+| Valuation               | 5%       |
+| **Total**               | **100%** |
+
+Clasificación:
+
+- **85–100:** excepcional
+- **75–84:** muy interesante
+- **65–74:** merece investigación
+- **50–64:** calidad insuficiente o precio excesivo
+- **<50:** descartar
+
+---
+
+# 14. Output
+
+No repitas extensamente la información del screening anterior.
+
+Entrega:
+
+### A. Ranking completo
+
+| RankCompañíaTCI ScoreMoatIncremental ROICReinvestment RunwayFCF QualityCapital AllocationValuationPrincipal riesgoVeredicto |
+| --------------------------------------------------------------------------------------------------------------------------- |
+
+### B. Top 5 para análisis profundo
+
+Para cada compañía:
+
+**Nombre — ticker**
+
+- **Por qué puede ser un negocio excepcional:** máximo 2 líneas.
+- **Por qué puede estar mal valorado:** máximo 2 líneas.
+- **Principal riesgo para la tesis:** 1 línea.
+- **Pregunta crítica a investigar:** 1 línea.
+
+### C. Watchlist
+
+Identifica adicionalmente negocios excepcionales que:
+
+> **cumplirían claramente los criterios de calidad de TCI, pero cuyo precio actual no ofrece suficiente margen de seguridad.**
+
+Indica qué valoración o precio aproximado los haría interesantes.
+
+---
+
+# Regla fundamental
+
+No confundas:
+
+**ROIC histórico elevado**
+
+con
+
+**capacidad futura de reinvertir mucho capital a ROIC elevado**.
+
+El segundo atributo es mucho más importante para identificar un verdadero compounder.
+
+La pregunta final que debes responder es:
+
+> **¿Cuáles de las compañías del screening anterior tienen la combinación de moat, pricing power, incremental ROIC, reinvestment runway y disciplina de capital necesaria para poder multiplicar su valor intrínseco durante la próxima década?**
