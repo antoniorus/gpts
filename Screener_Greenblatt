@@ -1,0 +1,378 @@
+Screener — Joel Greenblatt
+
+Toma exclusivamente el universo de compañías y la información financiera contenida en el screening que acabas de realizar en tu respuesta anterior.
+
+No vuelvas a generar el screening inicial y no añadas nuevas compañías al universo.
+
+Tu objetivo es someter las compañías anteriores a un segundo filtro independiente inspirado en Joel Greenblatt, utilizando principalmente los principios de la Magic Formula:
+
+comprar buenos negocios —elevada rentabilidad sobre el capital— a valoraciones atractivas —alto earnings yield—.
+
+El análisis debe ser fundamentalmente cuantitativo y comparativo.
+
+Cuando falten datos, complétalos preferentemente con S&P Capital IQ y, cuando sea necesario, con cuentas anuales o fuentes primarias.
+
+⸻
+
+1. Greenblatt Return on Capital
+
+No utilices simplemente el ROIC reportado por Capital IQ.
+
+Intenta calcular la métrica original de Greenblatt:
+
+Greenblatt ROC
+
+ROC = EBIT / (Net Working Capital + Net Fixed Assets)
+
+Donde:
+
+Net Working Capital
+
+Aproxima como:
+
+Current Assets – Cash – Current Liabilities excluyendo deuda financiera
+
+Net Fixed Assets
+
+Utiliza:
+
+Net PP&E
+
+Ajusta la fórmula cuando existan partidas contables que distorsionen claramente el capital necesario para operar.
+
+Muestra para cada compañía:
+
+* Greenblatt ROC LTM;
+* Greenblatt ROC FY anterior;
+* ROIC Capital IQ como referencia;
+* ROIC medio 5 años.
+
+No sustituyas silenciosamente Greenblatt ROC por ROIC.
+
+⸻
+
+2. Earnings Yield
+
+Calcula:
+
+Greenblatt Earnings Yield
+
+Earnings Yield = EBIT / Enterprise Value
+
+Utiliza:
+
+* EBIT LTM normalizado;
+* Enterprise Value actual.
+
+Ajusta EV cuando sea materialmente necesario por:
+
+* exceso de caja;
+* participaciones financieras;
+* preferred stock;
+* minority interests;
+* activos no operativos.
+
+Muestra el resultado en porcentaje.
+
+Ejemplo:
+
+EBIT = €100m
+EV = €1.000m
+
+EBIT / EV = 10%
+
+Cuanto mayor, mejor.
+
+⸻
+
+3. Ranking Magic Formula
+
+Realiza dos rankings independientes.
+
+Ranking A — Return on Capital
+
+Ordena todas las compañías de mayor a menor:
+
+Greenblatt ROC
+
+La mejor recibe:
+
+ROC Rank = 1
+
+⸻
+
+Ranking B — Earnings Yield
+
+Ordena de mayor a menor:
+
+EBIT / EV
+
+La compañía con mayor earnings yield recibe:
+
+EY Rank = 1
+
+⸻
+
+Combined Greenblatt Rank
+
+Calcula:
+
+Combined Rank = ROC Rank + EY Rank
+
+Cuanto menor sea el resultado, mejor.
+
+Ordena finalmente el universo por Combined Greenblatt Rank.
+
+No introduzcas ponderaciones subjetivas en este ranking.
+
+⸻
+
+4. Normalización del EBIT
+
+Antes de utilizar EBIT, determina si el LTM refleja razonablemente los beneficios económicos normalizados.
+
+Ajusta o señala:
+
+* extraordinarios;
+* restructuraciones;
+* ganancias por venta de activos;
+* impairments excepcionales;
+* litigios;
+* costes one-off;
+* beneficios anormalmente elevados o deprimidos.
+
+Muestra cuando sea relevante:
+
+Reported EBIT
+
+vs.
+
+Normalized EBIT
+
+Utiliza el EBIT normalizado para el ranking si existe una distorsión material.
+
+⸻
+
+5. Control de ciclicidad
+
+Comprueba especialmente si un elevado EBIT/EV procede de beneficios de pico de ciclo.
+
+Analiza:
+
+* EBIT margin actual vs. media 5–10 años;
+* utilización de capacidad;
+* precios de commodities;
+* demanda excepcional;
+* ciclo industrial;
+* ciclo inmobiliario;
+* inventarios;
+* efectos post-Covid u otras anomalías.
+
+Clasifica:
+
+Low / Medium / High cyclicality
+
+Si consideras que el EBIT utilizado está materialmente por encima del nivel normalizado, calcula adicionalmente:
+
+Normalized EBIT / EV
+
+y utiliza esta métrica como contraste.
+
+Marca:
+
+VALUE TRAP RISK
+
+cuando corresponda.
+
+⸻
+
+6. Persistencia del retorno sobre capital
+
+Un Greenblatt ROC elevado puede estar distorsionado por:
+
+* base de activos muy pequeña;
+* activos completamente amortizados;
+* outsourcing;
+* goodwill no incluido;
+* beneficios excepcionalmente altos;
+* working capital negativo;
+* adquisiciones.
+
+Por ello compara:
+
+* ROC LTM;
+* ROC hace 3 años;
+* ROIC medio 5 años;
+* ROIC mínimo de los últimos 5 años.
+
+Clasifica:
+
+Persistent / Moderately persistent / Volatile
+
+No modifiques por ello el ranking Magic Formula; úsalo como overlay de riesgo.
+
+⸻
+
+7. Balance
+
+Analiza brevemente:
+
+* deuda neta / EBITDA;
+* deuda neta / FCF;
+* cobertura de intereses;
+* liquidez;
+* vencimientos materiales.
+
+Clasifica:
+
+Strong / Acceptable / Weak
+
+Un earnings yield elevado acompañado de balance frágil debe señalarse claramente.
+
+⸻
+
+8. Earnings quality
+
+Evalúa:
+
+* EBIT → CFO;
+* EBIT → FCF;
+* working capital;
+* capex;
+* SBC;
+* capitalización de costes.
+
+Clasifica:
+
+Strong / Neutral / Weak
+
+Pregunta:
+
+¿El EBIT utilizado en la Magic Formula termina convirtiéndose razonablemente en cash flow para el accionista?
+
+⸻
+
+9. Growth sanity check
+
+Greenblatt no exige elevado crecimiento, pero evita seleccionar automáticamente negocios en declive estructural.
+
+Muestra:
+
+* revenue CAGR 5 años;
+* EBIT CAGR 5 años;
+* EPS CAGR 5 años;
+* consenso de crecimiento EPS 3 años si está disponible.
+
+Clasifica:
+
+Growing / Stable / Declining
+
+No incorpores crecimiento directamente a la Magic Formula.
+
+Utilízalo únicamente para detectar posibles value traps.
+
+⸻
+
+10. Greenblatt Quality Overlay
+
+Sin alterar el Combined Rank, clasifica cada compañía mediante cuatro controles:
+
+Control	Clasificación
+Persistencia de ROC	Strong / Neutral / Weak
+Earnings quality	Strong / Neutral / Weak
+Balance	Strong / Neutral / Weak
+Ciclicidad	Low / Medium / High
+
+Determina después:
+
+Greenblatt Confidence: High / Medium / Low
+
+⸻
+
+11. Casos donde la fórmula no funciona bien
+
+Identifica expresamente:
+
+* bancos;
+* aseguradoras;
+* REITs;
+* financieras;
+* utilities altamente reguladas;
+* compañías con enormes activos financieros;
+* negocios donde PP&E contable no representa el capital económico;
+* compañías acquisitive donde goodwill distorsiona fuertemente el análisis.
+
+Marca:
+
+Methodology Caveat
+
+No fuerces una conclusión cuantitativa cuando la metodología no sea económicamente representativa.
+
+⸻
+
+12. Output principal
+
+Entrega una tabla:
+
+Rank	Compañía	EV	EBIT normalizado	EBIT/EV	Greenblatt ROC	ROC Rank	EY Rank	Combined Rank	ROIC 5Y	FCF Yield	Balance	Cyclicality	Confidence	Veredicto
+
+Ordena estrictamente por:
+
+Combined Greenblatt Rank
+
+⸻
+
+13. Top candidatos
+
+Selecciona las 5 mejores oportunidades.
+
+Para cada una:
+
+Compañía — ticker
+
+* Greenblatt ROC: X%
+* EBIT/EV: X%
+* Combined Rank: X
+* Por qué parece barata: máximo 2 líneas.
+* Por qué el elevado ROC parece sostenible: máximo 2 líneas.
+* Principal riesgo de value trap: 1 línea.
+
+⸻
+
+14. Value traps potenciales
+
+Identifica hasta 5 compañías que aparecen atractivas matemáticamente pero donde exista riesgo de que la Magic Formula esté proporcionando una señal engañosa.
+
+Motivos típicos:
+
+* pico de ciclo;
+* deterioro estructural;
+* EBIT no convertido en caja;
+* deuda elevada;
+* concentración;
+* accounting distortion;
+* activos maduros;
+* caída secular de ingresos;
+* elevado ROC consecuencia de una base de capital artificialmente pequeña.
+
+⸻
+
+15. Regla final
+
+Mantén separados:
+
+Ranking matemático
+
+de
+
+juicio económico
+
+Una compañía puede tener:
+
+Combined Rank = 1
+
+y seguir siendo una mala inversión si los beneficios no son sostenibles.
+
+La pregunta final que debes responder es:
+
+¿Cuáles de las acciones que han superado el screening anterior combinan el mayor retorno sobre el capital operativo con el mayor earnings yield, y en cuáles de ellas existe suficiente evidencia de que ambas métricas son económicamente sostenibles?
